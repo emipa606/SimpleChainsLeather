@@ -499,7 +499,7 @@
 					<statFactors>
 						<MaxHitPoints>1.0</MaxHitPoints>
 						<Beauty>1.5</Beauty>
-						<BedRestEffectiveness>1.1</BedRestEffectiveness>
+						<BedRestEffectiveness>1.02</BedRestEffectiveness>
 						<Comfort>1.33</Comfort>
 						<WorkToMake>0.92</WorkToMake>
 						<Mass>0.8</Mass>
@@ -544,7 +544,7 @@
 				<xpath>Defs/ThingDef[defName="Leather_Thrumbo"]/stuffProps</xpath>
 				<value>
 					<statFactors>
-						<BedRestEffectiveness>1.1</BedRestEffectiveness>
+						<BedRestEffectiveness>1.0525</BedRestEffectiveness>
 						<Comfort>1.25</Comfort>
 						<MaxHitPoints>2.0</MaxHitPoints>
 						<Beauty>8</Beauty>
