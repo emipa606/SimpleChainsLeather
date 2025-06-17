@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tanning vat -->
+  <Owl_TanningVat.label>tanning vat</Owl_TanningVat.label>
+  <!-- EN: Tanning liquors can be poured here, and raw hides and pelts can then be soaked in it for a couple days to yield tanned leather. -->
+  <Owl_TanningVat.description>Tanning liquors can be poured here, and raw hides and pelts can then be soaked in it for a couple days to yield tanned leather.</Owl_TanningVat.description>
+</LanguageData>

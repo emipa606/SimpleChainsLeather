@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make rawhide -->
+  <Make_Rawhide.label>make rawhide</Make_Rawhide.label>
+  <!-- EN: Combine various types of hides and pelts to create rawhide. Typical thought of as an emergency resource when leather tanning cannot be done, given rawhide's weak durability and lifespan. -->
+  <Make_Rawhide.description>Combine various types of hides and pelts to create rawhide. Typical thought of as an emergency resource when leather tanning cannot be done, given rawhide's weak durability and lifespan.</Make_Rawhide.description>
+  <!-- EN: Making rawhide. -->
+  <Make_Rawhide.jobString>Making rawhide.</Make_Rawhide.jobString>
+  <!-- EN: make tanning liquor from food -->
+  <Owl_MakeTanningLiquorFromFood.label>make tanning liquor from food</Owl_MakeTanningLiquorFromFood.label>
+  <!-- EN: Make a batch of tanning liquor using any organic ingredients known to harbor tannins. -->
+  <Owl_MakeTanningLiquorFromFood.description>Make a batch of tanning liquor using any organic ingredients known to harbor tannins.</Owl_MakeTanningLiquorFromFood.description>
+  <!-- EN: Making a batch of tanning liquor. -->
+  <Owl_MakeTanningLiquorFromFood.jobString>Making a batch of tanning liquor.</Owl_MakeTanningLiquorFromFood.jobString>
+  <!-- EN: make tanning liquor from wood -->
+  <Owl_MakeTanningLiquorFromWood.label>make tanning liquor from wood</Owl_MakeTanningLiquorFromWood.label>
+  <!-- EN: Make a batch of tanning liquor using the bark and wood contents from logs. -->
+  <Owl_MakeTanningLiquorFromWood.description>Make a batch of tanning liquor using the bark and wood contents from logs.</Owl_MakeTanningLiquorFromWood.description>
+  <!-- EN: Making a batch of tanning liquor. -->
+  <Owl_MakeTanningLiquorFromWood.jobString>Making a batch of tanning liquor.</Owl_MakeTanningLiquorFromWood.jobString>
+</LanguageData>

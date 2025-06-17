@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: birdskin -->
+  <Hide_Bird.label>birdskin</Hide_Bird.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_Bird.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_Bird.description>
+  <!-- EN: heavy pelt -->
+  <Hide_HeavyPelt.label>heavy pelt</Hide_HeavyPelt.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_HeavyPelt.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_HeavyPelt.description>
+  <!-- EN: human flesh -->
+  <Hide_Human.label>human flesh</Hide_Human.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_Human.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_Human.description>
+  <!-- EN: hide -->
+  <Hide_Plain.label>hide</Hide_Plain.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_Plain.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_Plain.description>
+  <!-- EN: scale hide -->
+  <Hide_Scale.label>scale hide</Hide_Scale.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_Scale.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_Scale.description>
+  <!-- EN: soft pelt -->
+  <Hide_SoftPelt.label>soft pelt</Hide_SoftPelt.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_SoftPelt.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_SoftPelt.description>
+  <!-- EN: thick hide -->
+  <Hide_Thick.label>thick hide</Hide_Thick.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_Thick.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_Thick.description>
+  <!-- EN: thrumbo pelt -->
+  <Hide_Thrumbo.label>thrumbo pelt</Hide_Thrumbo.label>
+  <!-- EN: These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather. -->
+  <Hide_Thrumbo.description>These raw hides and pelts were removed from a creature, and with the right skills and tools, could be processed into tanned leather.</Hide_Thrumbo.description>
+  <!-- EN: rawhide -->
+  <Leather_Rawhide.label>rawhide</Leather_Rawhide.label>
+  <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
+  <Leather_Rawhide.description>A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather.</Leather_Rawhide.description>
+</LanguageData>

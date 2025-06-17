@@ -1,4 +1,4 @@
-# [Simple Chains: Leather (Continued)]()
+# [Simple Chains: Leather (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3424122756)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -154,7 +154,7 @@ Comfort:       ■□□□□□□□□□
 
 # You may also like...
 
-[![Image](https://steamuserimages-a.akamaihd.net/ugc/952983568043575028/608E9F4FA727CF907752586C9A3716ED22718759/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false)](https://steamcommunity.com/sharedfiles/filedetails/?id=1708709952)
+[![Image](https://steamuserimages-a.akamaihd.net/ugc/952983568043575028/608E9F4FA727CF907752586C9A3716ED22718759/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false)](https://steamcommunity.com/sharedfiles/filedetails/?id=3424121395)
 
 [hr]
 # [🦉See my other mods](https://steamcommunity.com/id/owlchemist/myworkshopfiles/?appid=294100)
@@ -172,4 +172,6 @@ Comfort:       ■□□□□□□□□□
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/SimpleChainsLeather?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3424122756) | tags: challenge, leatherworking
